@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=web-god" alt="web-god" /></a> </p>
 
-- 💬 Ask me about **html,css,js and react that means front end **
+- 💬 Ask me about ** front end/back end that means what is on your internet **
 
 - ⚡ Fun fact **I am just a tech**
 
