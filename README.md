@@ -2,7 +2,7 @@
 
 ![wallpaperflare com_wallpaper (5)](https://user-images.githubusercontent.com/132649294/236595023-0dc1eb9e-403d-42ac-ad25-22462ff56720.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=50&pause=500&color=00C8DD&center=true&width=921&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Web+God;+I'm+Frontend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%EF%B8%8F;I'm+Designer+%F0%9F%8E%A8;%F0%9F%92%93+to+Create+Websites+%F0%9F%8C%90;Web+Components+And+Animations+%F0%9F%8E%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=50&pause=500&color=00C8DD&center=true&width=921&height=150&lines=Hi+%F0%9F%A4%9F%F0%9F%8F%BB%2C+I'm+Web+God;+I'm+Frontend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%EF%B8%8F;I'm+Designer+%F0%9F%8E%A8;%F0%9F%92%93+to+Create+Websites+%F0%9F%8C%90;Web+Components+And+Animations+%F0%9F%8E%A5)](https://git.io/typing-svg)
 
 
 
