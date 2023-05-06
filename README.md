@@ -1,5 +1,8 @@
+![wallpaperflare com_wallpaper (5)](https://user-images.githubusercontent.com/132649294/236595023-0dc1eb9e-403d-42ac-ad25-22462ff56720.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Web God</h1>
-<h3 align="center">A passionate frontend developer from web</h3>
+<h3 align="center">A passionate frontend developer from the web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-god&label=Profile%20views&color=0e75b6&style=flat" alt="web-god" /> </p>
 
