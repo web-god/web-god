@@ -1,8 +1,10 @@
+
+
 ![wallpaperflare com_wallpaper (5)](https://user-images.githubusercontent.com/132649294/236595023-0dc1eb9e-403d-42ac-ad25-22462ff56720.jpg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sigmar&weight=900&size=50&pause=500&color=015876&center=true&width=921&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Web+God;+I'm+Frontend+Developer;I'm+Designer;Loves+to+Create+Websites;And+Animations)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Web God</h1>
-<h3 align="center">A passionate frontend developer from the web</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-god&label=Profile%20views&color=0e75b6&style=flat" alt="web-god" /> </p>
 
