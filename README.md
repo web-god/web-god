@@ -8,9 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-god&label=Profile%20views&color=0e75b6&style=flat" alt="web-god" /> </p>
 
-- 💬 Ask me about **html,css,js and react**
 
-- ⚡ Fun fact **I am just a tech**
 
 
 <br/>
