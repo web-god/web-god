@@ -4,6 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=50&pause=500&color=00C8DD&center=true&width=921&height=150&lines=Hi+%F0%9F%A4%9F%F0%9F%8F%BB%2C+I'm+Web+God;+I'm+Frontend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%EF%B8%8F;I'm+Designer+%F0%9F%8E%A8;%F0%9F%92%93+to+Create+Websites+%F0%9F%8C%90;Web+Components+And+Animations+%F0%9F%8E%A5)](https://git.io/typing-svg)
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-god&label=Profile%20views&color=0e75b6&style=flat" alt="web-god" /> </p>
